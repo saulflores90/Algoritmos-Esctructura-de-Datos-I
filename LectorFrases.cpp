@@ -1,3 +1,4 @@
+Escribe un programa que lea del teclado una frase y a continuación visualice las palabras de la frase en columna, seguida cada una del número de letras que la componen.
 #include <iostream>
 #include <string>
 #include <fstream>
